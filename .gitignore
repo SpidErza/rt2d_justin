@@ -1,0 +1,4 @@
+build
+*.md.html
+*.DS_*
+.vscode
